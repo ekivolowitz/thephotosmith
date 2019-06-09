@@ -1,0 +1,21 @@
+{
+  "title" : "Features",
+  "description" : "We're best at our services",
+  "content" : [
+    {
+      "icon" : "bell",
+      "title" : "Professionalism",
+      "description" : "We have experienced photographers with professional equipment to bring you the highest quality images."
+    },
+    {
+      "icon" : "rocket",
+      "title" : "Brand Identity",
+      "description" : "We'll match your company's brand identity to your photos."
+    },
+    {
+      "icon" : "clock",
+      "title" : "Fast",
+      "description" : "We'll deliver your images promptly."
+    }
+  ]  
+}

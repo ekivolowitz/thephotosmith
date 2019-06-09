@@ -1,0 +1,11 @@
+{
+  "title" : "Our team is amazing",
+  "description" : "Our headquarter is located in Alameda, CA",
+  "members" : [
+    {
+      "name" : "Ian Smith",
+      "description" : "Ian is the founder and CEO of the company.",
+      "avatar" : "avatar.png"
+    }
+  ]
+}

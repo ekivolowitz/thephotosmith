@@ -1,0 +1,19 @@
+baseURL : ""
+languageCode : en-us
+title : The Photosmith
+theme : hugo-sodium-theme
+
+taxonomies:
+  category: categories
+  tag: tags
+
+params:
+  social:
+    facebook: uicardio
+    instagram: uicardio
+    twitter: uicardio
+
+  scripts:
+    googleanalytics: 
+    disqus: 
+    

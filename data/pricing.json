@@ -1,0 +1,44 @@
+{
+  "title" : "Pricing",
+  "description" : "Pricing subtitle",
+  "content" : [
+    {
+      "title" : "Starter Pack",
+      "price" : "$120",
+      "features" : [
+        "One digital image",
+        "Editing",
+        "Lighting",
+        "Staging"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    },
+    {
+      "title" : "Image 2 - 9",
+      "price" : "$60",
+      "features" : [
+        "All features of Starter Pack",
+        "Half the cost of the first image for the next 8 images"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    },
+    {
+      "title" : "Image 10+",
+      "price" : "$30",
+      "features" : [
+        "All features of Starter Pack",
+        "A quarter of the price of the first image for every image after 10"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    }
+  ]
+}

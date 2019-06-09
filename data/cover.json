@@ -1,0 +1,8 @@
+{
+  "title" : "The Photosmith",
+  "description" : "Photo services brought to you by Ian",
+  "button" : {
+    "text" : "Get In Touch",
+    "href" : "/#contact"
+  }
+}
